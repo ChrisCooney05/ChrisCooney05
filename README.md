@@ -5,6 +5,12 @@
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Find my first job as a developer and learn something new each day!
 - ⚡ Fun fact: I've played AFL for Great Britain and England
+<br/>
+
+### Connect with me
+[<img align="left" alt="Chris | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/chris-cooney-003028160/)
+[<img align="left" alt="Chris | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:chris.cooney05@hotmail.co.uk)
+<br/>
 
 ### Languages and Tools:
 
