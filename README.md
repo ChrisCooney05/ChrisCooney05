@@ -1,13 +1,14 @@
 ### Hi there, I'm Chris! 👋
 
 - 📖 Just Graduated from a 12 week intensive bootcamp with [Makers](https://makers.tech/about-us/)
-- 💻 I'm currently looking for work, can you help?
+- 💻 I'm currently looking for a job as a software dev, my CV can be found [here](https://github.com/ChrisCooney05/CV)
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Find my first job as a developer and learn something new each day!
 - ⚡ Fun fact: I've played AFL for Great Britain and England
-<br/>
+  <br/>
 
 ### Connect with me
+
 [<img align="left" alt="Chris | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/chris-cooney-003028160/)
 [<img align="left" alt="Chris | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:chris.cooney05@hotmail.co.uk)
 <br/>
@@ -32,8 +33,13 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br/>
 <br/>
-<br/>
+
+### A few of my projects
+
+| Project                                                      | Description                                                                                                            |
+| ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
+| [Node Bank](https://github.com/ChrisCooney05/bank_tech_test) | No flashing front end here, just a concentration on good code quality and solid testing                                |
+| [RoboFriends](https://github.com/ChrisCooney05/robofriends)  | My first play with React using an api to generate robo-components. includes a search function that updates as you type |
+| [CodeQuest()](https://github.com/ChrisCooney05/codeQuest)    | Final project with Makers built in a team of 4. deployed to Netlify if you want to check it out                        |
 
 [![Chris' GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChrisCooney05)](https://github.com/anuraghazra/github-readme-stats)
-
-
