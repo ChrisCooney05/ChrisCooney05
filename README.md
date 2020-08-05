@@ -34,12 +34,4 @@
 <br/>
 <br/>
 
-### A few of my projects
-
-| Project                                                      | Description                                                                                                                                 |
-| ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Node Bank](https://github.com/ChrisCooney05/bank_tech_test) | No flashing front end here, just a concentration on good code quality and solid testing                                                     |
-| [RoboFriends](https://github.com/ChrisCooney05/robofriends)  | My first play with React using an api to generate robo-components. includes a search function that updates as you type                      |
-| [CodeQuest()](https://github.com/ChrisCooney05/codeQuest)    | Final project with Makers built in a team of 4. deployed to Netlify if you want to check it out [here](https://lets-codequest.netlify.app/) |
-
 [![Chris' GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChrisCooney05)](https://github.com/anuraghazra/github-readme-stats)
