@@ -11,6 +11,7 @@
 
 [<img align="left" alt="Chris | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/chris-cooney-003028160/)
 [<img align="left" alt="Chris | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:chris.cooney05@hotmail.co.uk)
+[<img align="left" alt="Chris | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/googlechrome.svg" />](https://chriscooney.netlify.app/)
 <br/>
 
 ### Languages and Tools:
