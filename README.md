@@ -35,4 +35,6 @@
 <br/>
 <br/>
 
-[![Chris' GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChrisCooney05)](https://github.com/anuraghazra/github-readme-stats)
+![Chris' GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChrisCooney05&theme=vue)
+![Chris' GitHub Top-Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisCooney05&theme=vue)
+
