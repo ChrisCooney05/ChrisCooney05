@@ -9,9 +9,9 @@
 
 ### Connect with me
 
-[<img align="left" alt="Chris | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target='_blank'/>](https://www.linkedin.com/in/chris-cooney-003028160/)
-[<img align="left" alt="Chris | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:chris.cooney05@hotmail.co.uk)
-[<img align="left" alt="Chris | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/googlechrome.svg" target='_blank'/>](https://chriscooney.netlify.app/)
+<a href='https://www.linkedin.com/in/chris-cooney-003028160/' target='_blank'><img align="left" alt="Chris | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
+<a href='mailto:chris.cooney05@hotmail.co.uk'><img align="left" alt="Chris | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
+<a href='https://chriscooney.netlify.app/' target='_blank'><img align="left" alt="Chris | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/googlechrome.svg"/></a>
 <br/>
 
 ### Languages and Tools:
