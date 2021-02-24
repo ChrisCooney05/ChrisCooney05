@@ -1,5 +1,9 @@
 ### Hi there, I'm Chris! 👋
 
+- 👯 I’m looking to collaborate with other developers
+- 🥅 2020 Goals: Find my first job as a developer and learn something new each day!
+- ⚡ Fun fact: I've played AFL for Great Britain and England
+
 
 ### Connect with me
 
