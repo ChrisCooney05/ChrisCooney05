@@ -1,10 +1,5 @@
 ### Hi there, I'm Chris! 👋
 
-- 📖  Just Graduated from a 12 week intensive bootcamp with [Makers](https://makers.tech/about-us/)
-- 👯  I’m looking to collaborate with other developers
-- 🥅  2020 Goals: Find my first job as a developer and learn something new each day!
-- ⚡  Fun fact: I've played AFL for Great Britain and England
-  <br/>
 
 ### Connect with me
 
