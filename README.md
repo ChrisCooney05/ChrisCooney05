@@ -23,7 +23,7 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Rails" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />
-<img align="left" alt="Jest" width="26px" src="https://www.steadylearner.com/static/images//code/Jest_from_the_website.png" />
+<img align="left" alt="Jest" width="26px" src="https://miro.medium.com/max/600/1*RQwRLQ0yyCvYmRn_Nst5yg.png" />
 <img align="left" alt="Jasmine" width="26px" src="https://i.imgur.com/NPme51t.png" />
 <img align="left" alt="RSpec" width="26px" src="https://dmlaziuk.github.io/images/rspec.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
